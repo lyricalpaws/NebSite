@@ -1,4 +1,40 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'xterm'
+title = 'Nebula System'
+theme = 'archie'
+copyright = "© Nebula"
+
+[params]
+	mode="dark"
+	useCDN=false
+	subtitle = "A bunch of critters sharing a home in 1 body."
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/lyricalpaws"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/lyricalpaws"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 3
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true

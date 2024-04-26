@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nebula System</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Nebula System</description>
+    <title>Posts on Nebula System</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Nebula System</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Nebula</copyright>
     <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Hi hi, we&amp;rsquo;re a system named Nebula (or Neb/Nebbie if you prefer).&#xA;We don&amp;rsquo;t have much to talk about ourselves, we&amp;rsquo;re just a system of genderfucked therian critters who are existing generally; feel free to contact us on our socials, we might not be quick to respond but we try ❤️&#xA;You can find out about each of our characters here&#xA;Discord - lyricalpaws&#xA;Bluesky - https://bsky.app/profile/neb.gay (NSFW)&#xA;Mastodon - https://gulp.</description>
-    </item>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Headmates</title>
       <link>http://localhost:1313/posts/headmates/</link>
