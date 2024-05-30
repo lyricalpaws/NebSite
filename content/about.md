@@ -6,7 +6,7 @@ author = "Nebula System"
 +++
 
 Hi hi, we're a system named [Nebula](https://en.pronouns.page/@lyricalpaws) <sup><sub>(or Neb/Nebbie if you prefer)</sub></sup>.\
-We don't have much to talk about ourselves,  we're just a system of genderfucked [therian](posts/nonhuman) critters who are existing generally; feel free to contact us on our socials, we might not be quick to respond but we try ❤️\
+We don't have much to talk about ourselves,  we're just a system of genderfucked [therian](/posts/nonhuman) critters who are existing generally; feel free to contact us on our socials, we might not be quick to respond but we try ❤️\
 You can find out about each of our characters [here](/posts/headmates)\
 \
 Discord - lyricalpaws\
