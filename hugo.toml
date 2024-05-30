@@ -10,6 +10,7 @@ enableInlineShortcodes = true
 	useCDN=false
 	subtitle = "A bunch of critters sharing a home in 1 body."
     email = "nebula@neb.gay"
+    favicon = "/images/favicon.png"
 
 [[params.social]]
 name = "GitHub"
