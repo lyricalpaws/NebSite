@@ -4,9 +4,8 @@ date = "2024-06-04"
 description = "For information on our written commissions focused around vore."
 aliases = ["comms"]
 author = "Nebula System"
+showtoc = true
 +++
-
-For information on our written commissions focused around vore.
 
 Terms Of Service (TOS)
 ---

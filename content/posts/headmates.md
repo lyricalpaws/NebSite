@@ -3,41 +3,43 @@ title = "Headmates"
 description = "A list of our headmates and what we all look like."
 date = "2024-04-26"
 author = "Nebula System"
-tags = "About"
+tags = ["About"]
+weight = 1
+showtoc = true
 +++
 
 # Chloe
 Species - Umbreon/Shaymin\
 Pronouns - She/They\
 Heart Tag - 💙\
-![Sable](https://paws.aaw.ooo/hwpy65.png)
+![Sable](/images/refs/Sable.png)
 
 # Lilith
 Species: Red Panda\
 Pronouns - She/They\
 Heart Tag - 🤍\
-![Miko Ikeda](https://paws.aaw.ooo/kchif2.png)
+![Miko Ikeda](/images/refs/Miko.png)
 
 # Pixel
 Species: Skunk/Kitsune\
 Pronouns - He/They\
 Heart Tag - 💖\
-![Pixel](https://paws.aaw.ooo/crfk2z.png)
+![Pixel](/images/refs/Pixel.png)
 
 # Skye
 Species: Blue Merle Border Collie\
 Pronouns - They/She\
 Heart Tag - 🤎\
-![Skye](https://paws.aaw.ooo/i2jp3s.png)
+![Skye](/images/refs/Skye.png)
 
 # Andromeda
 Species: Plushie Bunny\
 Pronouns - It/Its\
 Heart Tag - 💜\
-![Andromeda](https://paws.aaw.ooo/tqo4bf.png)
+![Andromeda](/images/refs/Andromeda.png)
 
 # Asphodel
 Species: Feathered Snake\
 Pronouns - She/Her\
 Heart Tag - 🩷\
-![Asphodel](https://paws.aaw.ooo/qdh1jp.png)
+![Asphodel](/images/refs/Asphodel.png)

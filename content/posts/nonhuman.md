@@ -3,11 +3,12 @@ title = "We're not human"
 description = "To put it simply, none of the members of the system are \"human\", we're all some form of animal or object."
 date = "2024-05-30"
 author = "Nebula System"
-tags = "About"
+tags = ["About"]
+weight = 2
 +++
 
-To put it simply, none of the members of the system are \"human\", we're all some form of animal or object.\
-\
+
+
 It took years of thinking, talking with other alterhumans and especially a lot of discussion between headmates, but we came to the conclusion a long time ago now; the signs were pretty obvious, generally disliking and being uncomfortable with having a human body, and little interest in concepts like sex (we're largely asexual).\
 \
 More specifically to us, it's not that we deny the body is human, more that we reject that it's ours. We weren't meant to all be packed into the body together and were meant to be separate creatures, though we do make do with what we have, it still causes a large amount of dysphoria for us to *have* such a body as we do; this is also largely the reason as to why we are so interested in transhumanism and body modification/experimentation.\
