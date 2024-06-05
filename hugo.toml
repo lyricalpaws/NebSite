@@ -5,6 +5,9 @@ theme = ['PaperMod', 'hugo-embed-pdf-shortcode']
 copyright = "© Nebula"
 enableInlineShortcodes = true
 
+[params]
+hideSummary = false
+
 [params.homeInfoParams]
 Title = "Hi there👋"
 Content = "We're Nebula, a system of critters who are trying their best."

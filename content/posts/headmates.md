@@ -1,5 +1,6 @@
 +++
 title = "Headmates"
+Summary = "A list of our headmates and what we all look like :3"
 description = "A list of our headmates and what we all look like."
 date = "2024-04-26"
 author = "Nebula System"
