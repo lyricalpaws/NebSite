@@ -1,26 +1,29 @@
 baseURL = 'https://example.com/'
 languageCode = 'en-us'
 title = 'Nebula System'
-theme = ['archie', 'hugo-embed-pdf-shortcode']
+theme = ['PaperMod', 'hugo-embed-pdf-shortcode']
 copyright = "© Nebula"
 enableInlineShortcodes = true
 
-[params]
-	mode="dark"
-	useCDN=false
-	subtitle = "A bunch of critters sharing a home in 1 body."
-    email = "nebula@neb.gay"
-    favicon = "/images/favicon.png"
+[params.homeInfoParams]
+Title = "Hi there👋"
+Content = "We're Nebula, a system of critters who are trying their best."
 
-[[params.social]]
-name = "GitHub"
-icon = "github"
+[[params.socialIcons]]
+name = "Github"
 url = "https://github.com/lyricalpaws"
 
-[[params.social]]
+[[params.socialIcons]]
+name = "Telegram"
+url = "https://t.me/lyricalpaws"
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://x.com/lyricalpaws"
+
+[[params.socialIcons]]
 name = "Email"
 url = "mailto:nebula@neb.gay"
-icon = "mail"
 
 [[menu.main]]
 name = "Home"
@@ -33,12 +36,12 @@ url = "/about"
 weight = 2
 
 [[menu.main]]
-name = "Commissions"
+name = "Comms"
 url = "/commissions"
 weight = 3
 
 [[menu.main]]
-name = "All posts"
+name = "Posts"
 url = "/posts"
 weight = 4
 
