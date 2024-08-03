@@ -5,11 +5,8 @@ theme = ['PaperMod', 'hugo-embed-pdf-shortcode']
 copyright = "© Nebula"
 enableInlineShortcodes = true
 
-[params]
-hideSummary = false
-
 [params.homeInfoParams]
-Title = "Hi there👋"
+Title = "Hi there👋🦊"
 Content = "We're Nebula, a system of critters who are trying their best."
 
 [[params.socialIcons]]
@@ -49,8 +46,8 @@ url = "/posts"
 weight = 4
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "Shrine"
+url = "/shrine"
 weight = 5
 
 [markup]
