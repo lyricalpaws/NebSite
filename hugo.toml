@@ -1,13 +1,13 @@
 baseURL = 'https://example.com/'
 languageCode = 'en-us'
 title = 'Nebula System'
-theme = ['PaperMod', 'hugo-embed-pdf-shortcode']
+theme = ['PaperMod']
 copyright = "© Nebula"
 enableInlineShortcodes = true
 
 [params.homeInfoParams]
 Title = "Hi there👋🦊"
-Content = "We're Nebula, a system of critters who are trying their best."
+Content = "We're Nebula, a system of critters who are trying their best; we also write sometimes."
 
 [[params.socialIcons]]
 name = "Github"

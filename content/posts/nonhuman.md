@@ -4,7 +4,7 @@ Summary = "To put it simply, none of the members of the system are \"human\", we
 description = "To put it simply, none of the members of the system are \"human\", we're all some form of animal or object."
 date = "2024-05-30"
 author = "Nebula System"
-tags = ["About"]
+tags = ["About", "Blog"]
 weight = 2
 +++
 
@@ -17,8 +17,8 @@ More specifically to us, it's not that we deny the body is human, more that we r
 The brain is ours but the body is more just like a vessel that carries us all around, and in our mind, we do not consider ourselves to be human, therefore fundamentally we're not human.\
 Sometimes we like to refer to the body as a shapeshifter when among other alterhumans or furries in general, it's a way of referring to the body without having to acknowledge it as being human.
 
-Is there a way to help accommodate us with this?
----
+### Is there a way to help accommodate us with this?
+
 Yes, actually. There is.\
 \
 Firstly, using the name and pronouns of whoever is [fronting](/posts/headmates).\
