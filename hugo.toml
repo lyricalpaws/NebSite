@@ -23,6 +23,10 @@ name = "Twitter"
 url = "https://x.com/lyricalpaws"
 
 [[params.socialIcons]]
+name = "Bluesky"
+url = "https://bsky.app/profile/neb.gay"
+
+[[params.socialIcons]]
 name = "Email"
 url = "mailto:nebula@neb.gay"
 
