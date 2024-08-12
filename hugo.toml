@@ -7,7 +7,7 @@ enableInlineShortcodes = true
 
 [params.homeInfoParams]
 Title = "Hi there👋🦊"
-Content = "We're Nebula, a system of critters who are trying their best; we also write sometimes."
+Content = "We're Nebula, a system of critters who are trying their best; we also write sometimes. Adult shit ahead."
 
 [[params.socialIcons]]
 name = "Github"
