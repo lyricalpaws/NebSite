@@ -44,3 +44,9 @@ Species: Feathered Snake\
 Pronouns - She/Her\
 Heart Tag - 🩷\
 ![Asphodel](/refs/Asphodel.png)
+
+# Bella (A.k.a Abel)
+Species: Lion (Sometimes Sylveon)\
+Pronouns - He/Him\
+Heart Tag - 🧡\
+![Bella](/refs/Bella.png)
