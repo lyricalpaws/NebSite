@@ -11,9 +11,9 @@ Content = "We're Nebula, a system of critters who are trying their best; somtime
 imageUrl = "/therianfops.png"
 
 assets.theme_color = "#FFA0FE"
-params.SocialImage = ["/therianfops.png"]
-params.twitterUsername = "@lyricalpaws"
-params.description = "We're Nebula, a system of critters who are trying their best; somtimes adult shit ahead."
+Params.SocialImage = ["/therianfops.png"]
+Params.twitterUsername = "@lyricalpaws"
+Params.description = "We're Nebula, a system of critters who are trying their best; somtimes adult shit ahead."
 
 [[params.socialIcons]]
 name = "Github"
