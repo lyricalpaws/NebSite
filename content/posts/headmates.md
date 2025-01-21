@@ -19,7 +19,7 @@ Heart Tag - 💙\
 Species: Red Panda\
 Pronouns - She/They\
 Heart Tag - 🤍\
-![Miko Ikeda](/refs/Miko.png)
+![Miko Ikeda](/refs/Lilith.png)
 
 # Pixel
 Species: Skunk/Kitsune\
