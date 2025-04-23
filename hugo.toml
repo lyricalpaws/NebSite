@@ -12,7 +12,6 @@ imageUrl = "/therianfops.png"
 
 assets.theme_color = "#FFA0FE"
 Params.SocialImage = ["/therianfops.png"]
-Params.twitterUsername = "@lyricalpaws"
 Params.description = "We're Nebula, a system of critters who are trying their best; somtimes adult shit ahead."
 
 [[params.socialIcons]]
@@ -22,10 +21,6 @@ url = "https://github.com/lyricalpaws"
 [[params.socialIcons]]
 name = "Telegram"
 url = "https://t.me/lyricalpaws"
-
-[[params.socialIcons]]
-name = "Twitter"
-url = "https://x.com/lyricalpaws"
 
 [[params.socialIcons]]
 name = "Bluesky"

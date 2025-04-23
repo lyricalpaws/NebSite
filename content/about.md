@@ -14,6 +14,5 @@ We also do photography! [See it here](https://gallery.neb.gay)
 Discord - lyricalpaws\
 Bluesky - https://bsky.app/profile/neb.gay (NSFW)\
 Mastodon - https://gulp.cafe/@lyricalpaws (NSFW)\
-Twitter - https://twitter.com/lyricalpaws (NSFW)\
 Furaffinity - https://www.furaffinity.net/user/lyricalpaws (NSFW)\
 Telegram - https://t.me/lyricalpaws
