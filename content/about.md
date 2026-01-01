@@ -12,7 +12,8 @@ You can find out about each of our characters [here](/posts/headmates)
 We also do photography! [See it here](https://gallery.neb.gay)
 
 Discord - lyricalpaws\
-Bluesky - https://bsky.app/profile/neb.gay (NSFW)\
-Mastodon - https://gulp.cafe/@lyricalpaws (NSFW)\
-Furaffinity - https://www.furaffinity.net/user/lyricalpaws (NSFW)\
-Telegram - https://t.me/lyricalpaws
+[Bluesky](https://bsky.app/profile/neb.gay) (NSFW)\
+[Mastodon](https://gulp.cafe/@lyricalpaws) (NSFW)\
+[Furaffinity](https://www.furaffinity.net/user/lyricalpaws) (NSFW)\
+[Telegram](https://t.me/lyricalpaws)\
+[VRChat](https://vrchat.com/home/user/usr_408ad592-d355-4b19-b1f3-7e3e76562bcd)
